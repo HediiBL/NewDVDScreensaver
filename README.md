@@ -13,8 +13,8 @@ How to launch
 
 Changelog
 -----------------------------
-v0.10 : version not released publicly.
-v1.00 : version revised after some tests. Some bugs were fixed and this version has been released publicly on GitHub.
+- v0.10 : version not released publicly.
+- v1.00 : version revised after some tests. Some bugs were fixed and this version has been released publicly on GitHub.
 
 Updates / Old builds
 -----------------------------
